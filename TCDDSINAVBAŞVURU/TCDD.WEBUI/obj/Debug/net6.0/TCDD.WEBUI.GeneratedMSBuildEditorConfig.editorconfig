@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TCDD.WEBUI
+build_property.RootNamespace = TCDD.WEBUI
+build_property.ProjectDir = C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.WEBUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.WEBUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Basvuru/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Basvuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Basvuru/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydVxOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Basvuru/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/shared/Components/Header/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Sınav/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/Sınav/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2XE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TCDDSINAVBAŞVURU/TCDD.WEBUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

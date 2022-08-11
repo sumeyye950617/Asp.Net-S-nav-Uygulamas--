@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\bin\Debug\net6.0\TCDD.BLL.deps.json
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\bin\Debug\net6.0\TCDD.BLL.dll
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\bin\Debug\net6.0\TCDD.BLL.pdb
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.dll
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\refint\TCDD.BLL.dll
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.pdb
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\ref\TCDD.BLL.dll
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\bin\Debug\net6.0\TCDD.DLL.dll
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\bin\Debug\net6.0\TCDD.DLL.pdb
+C:\Users\Lenovo\source\repos\TCDDSINAVBAŞVURU\TCDD.BLL\obj\Debug\net6.0\TCDD.BLL.csproj.CopyComplete

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCDD.BLL", "TCDD.BLL\TCDD.BLL.csproj", "{71917FF9-3686-4EF9-AD0B-DEED61873BC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCDD.DLL", "TCDD.DLL\TCDD.DLL.csproj", "{8545C782-44BF-4798-BEBA-0E113C5B30FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCDD.WEBUI", "TCDD.WEBUI\TCDD.WEBUI.csproj", "{AE8E6C1D-9879-486F-BD24-BD2FE72FC841}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCDD.WEBAPI", "TCDD.WEBAPI\TCDD.WEBAPI.csproj", "{655C8B4D-41DB-492E-BC66-D9C9E5C430DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCDD.WEPFROMAPI", "TCDD.WEPFROMAPI\TCDD.WEPFROMAPI.csproj", "{356D850B-A625-499F-8A83-9D1250B6FEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71917FF9-3686-4EF9-AD0B-DEED61873BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71917FF9-3686-4EF9-AD0B-DEED61873BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71917FF9-3686-4EF9-AD0B-DEED61873BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71917FF9-3686-4EF9-AD0B-DEED61873BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8545C782-44BF-4798-BEBA-0E113C5B30FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8545C782-44BF-4798-BEBA-0E113C5B30FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8545C782-44BF-4798-BEBA-0E113C5B30FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8545C782-44BF-4798-BEBA-0E113C5B30FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8E6C1D-9879-486F-BD24-BD2FE72FC841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8E6C1D-9879-486F-BD24-BD2FE72FC841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8E6C1D-9879-486F-BD24-BD2FE72FC841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8E6C1D-9879-486F-BD24-BD2FE72FC841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655C8B4D-41DB-492E-BC66-D9C9E5C430DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655C8B4D-41DB-492E-BC66-D9C9E5C430DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655C8B4D-41DB-492E-BC66-D9C9E5C430DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655C8B4D-41DB-492E-BC66-D9C9E5C430DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356D850B-A625-499F-8A83-9D1250B6FEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356D850B-A625-499F-8A83-9D1250B6FEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356D850B-A625-499F-8A83-9D1250B6FEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356D850B-A625-499F-8A83-9D1250B6FEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B3AF873-E95F-41DB-8EA9-6C74F6043E7B}
+	EndGlobalSection
+EndGlobal
